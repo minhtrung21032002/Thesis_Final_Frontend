@@ -1,0 +1,133 @@
+[
+    {
+        "name": "Acura",
+        "slug": "Acura",
+        "image": "acura.png"
+    },
+
+    {
+        "name": "Arash",
+        "slug": "arash",
+        "image": "arash.png"
+    },
+
+    {
+        "name": "Audi",
+        "slug": "audi",
+        "image": "audi.png"
+    },
+
+    {
+        "name": "Bentley",
+        "slug": "bentley",
+        "image": "bentley.png"
+    },
+
+    {
+        "name": "BMW",
+        "slug": "bmw",
+        "image": "bmw.png"
+    },
+    {
+        "name": "Cadillac",
+        "slug": "cadillac",
+        "image": "cadillac.png"
+    },
+
+    {
+        "name": "Chevrolet",
+        "slug": "chevrolet",
+        "image": "chevrolet.png"
+    },
+    {
+        "name": "Dodge",
+        "slug": "dodge",
+        "image": "dodge.png"
+    },
+    {
+        "name": "Fiat",
+        "slug": "fiat",
+        "image": "fiat.png"
+    },
+    {
+        "name": "Ford",
+        "slug": "ford",
+        "image": "ford.png"
+    },
+    {
+        "name": "GMC",
+        "slug": "gmc",
+        "image": "gmc.png"
+    },
+    {
+        "name": "Honda",
+        "slug": "honda",
+        "image": "honda.png"
+    },
+    {
+        "name": "Hyundai",
+        "slug": "hyundai",
+        "image": "hyundai.png"
+    },
+
+    {
+        "name": "Jeep",
+        "slug": "jeep",
+        "image": "jeep.png"
+    },
+    {
+        "name": "Kia",
+        "slug": "kia",
+        "image": "kia.png"
+    },
+
+    {
+        "name": "Lexus",
+        "slug": "lexus",
+        "image": "lexus.png"
+    },
+
+    {
+        "name": "Mazda",
+        "slug": "mazda",
+        "image": "mazda.png"
+    },
+    {
+        "name": "Mercedes",
+        "slug": "mercedes",
+        "image": "mercedes-benz.png"
+    },
+    {
+        "name": "MG",
+        "slug": "mg",
+        "image": "mg.png"
+    },
+    {
+        "name": "Mitsubishi",
+        "slug": "mitsubishi",
+        "image": "mitsubishi.png"
+    },
+
+    {
+        "name": "Porsche",
+        "slug": "porsche",
+        "image": "porsche.png"
+    },
+
+    {
+        "name": "Toyota",
+        "slug": "toyota",
+        "image": "toyota.png"
+    },
+    {
+        "name": "Volkswagen",
+        "slug": "volkswagen",
+        "image": "volkswagen.png"
+    },
+
+    {
+        "name": "VinFast",
+        "slug": "vinfast",
+        "image": "vinfast.png"
+    }
+]

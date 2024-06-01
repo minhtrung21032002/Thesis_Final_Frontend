@@ -1,0 +1,34 @@
+input[type='radio'] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.radio-label {
+    position: relative;
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+.radio-label-normal {
+    font-size: 12px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 12px;
+    top: 12px;
+    transition: 0.2s ease all;
+    width: 100%;
+}
+
+.radio-label-active {
+    background: #766bf7;
+    width: auto;
+    /* top: -10px;  */
+    padding: 6px 50px;
+    font-size: 12px;
+}
+
+.radio-label-checked {
+    background: #766bf7;
+}
